@@ -11,11 +11,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/DataDavD/snippetbox/pkg/models"
+	"github.com/Kombokonina/snippetbox/pkg/models"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/golangcollege/sessions"
 
-	"github.com/DataDavD/snippetbox/pkg/models/mysql"
+	"github.com/Kombokonina/snippetbox/pkg/models/mysql"
 )
 
 type contextKey string

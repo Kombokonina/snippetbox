@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/DataDavD/snippetbox/pkg/forms"
-	"github.com/DataDavD/snippetbox/pkg/models"
+	"github.com/Kombokonina/snippetbox/pkg/forms"
+	"github.com/Kombokonina/snippetbox/pkg/models"
 )
 
 func (app *application) ping(w http.ResponseWriter, r *http.Request) {

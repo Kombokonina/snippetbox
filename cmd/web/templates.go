@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/DataDavD/snippetbox/pkg/forms"
-	"github.com/DataDavD/snippetbox/pkg/models"
+	"github.com/Kombokonina/snippetbox/pkg/forms"
+	"github.com/Kombokonina/snippetbox/pkg/models"
 )
 
 type templateData struct {

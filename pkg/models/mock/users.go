@@ -3,7 +3,7 @@ package mock
 import (
 	"time"
 
-	"github.com/DataDavD/snippetbox/pkg/models"
+	"github.com/Kombokonina/snippetbox/pkg/models"
 )
 
 var MockUser = &models.User{
